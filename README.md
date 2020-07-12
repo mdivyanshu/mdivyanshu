@@ -7,7 +7,6 @@ I have a good hold on Python and a decent knowledge about R. Presently exploring
 
 I have worked on multiple projects as a part of my curriculum and also, some personal interest projects like IPL-Analytics with Mentorskool, ML scholar for Azure with Udacity. 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Computer Vision, AWS, Azure and Big data tools like Spark.
 - 🌱 I’m currently learning about new Data science technologies in ML, Deep learning and NLP.
@@ -19,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Very much passioate about cricket and always open for discussion.
 <!--
 **mdivyanshu/mdivyanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Here are some ideas to get you started:
 
 
