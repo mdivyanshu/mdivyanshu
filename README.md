@@ -6,8 +6,6 @@ I am currently learning and exploring new data related technologies. I have basi
 I have a good hold on Python and a decent knowledge about R. Presently exploring Big data tools and Cloud services of AWS and Azure.
 
 I have worked on multiple projects as a part of my curriculum and also, some personal interest projects like IPL-Analytics with Mentorskool, ML scholar for Azure with Udacity. 
-<!--
-**mdivyanshu/mdivyanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,4 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: divyanshu1795@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Very much passioate about cricket and always open for discussion.
+<!--
+**mdivyanshu/mdivyanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
